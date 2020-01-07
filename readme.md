@@ -9,6 +9,8 @@ drupal 8.0.0
 ```sh
 cd htdocs/themes/
 git clone https://github.com/inovalcalabia/drupal-theme-boilerplate.git
+npm install
+gulp watch
 ```
 
 ## Author
